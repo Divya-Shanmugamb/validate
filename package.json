@@ -1,0 +1,19 @@
+{
+  "name": "validate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Divya.SG <“divyaaaaasuresh10@gmail.com”>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  },
+  "dependencies": {}
+}
